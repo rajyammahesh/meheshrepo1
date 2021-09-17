@@ -1,3 +1,3 @@
 a = 99
 b = 9929
-print(a + B)
+print(a + b)
